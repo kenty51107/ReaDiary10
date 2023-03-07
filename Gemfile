@@ -41,8 +41,4 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
-<<<<<<< HEAD
 end
-=======
-end
->>>>>>> feature/devise
